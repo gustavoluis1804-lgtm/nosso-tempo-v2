@@ -1,0 +1,10 @@
+{
+  "name": "Juntos há",
+  "short_name": "Juntos há",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#171719",
+  "theme_color": "#171719",
+  "orientation": "portrait",
+  "description": "Contador desde 12/09/2026 às 16:43."
+}
